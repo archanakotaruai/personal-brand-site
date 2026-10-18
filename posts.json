@@ -1,0 +1,27 @@
+{
+  "posts": [
+    {
+      "slug": "2026-10-18-agents-everywhere-and-on-the-cancel-list",
+      "date": "2026-10-18",
+      "title": "AI agents are arriving everywhere, and landing on the cancel list",
+      "summary": "Gartner expects agents in 40% of enterprise apps by the end of 2026 and predicts over 40% of agentic AI projects will be canceled by 2027. Both can be true.",
+      "body": [
+        "Gartner expects up to 40% of enterprise applications to include task-specific AI agents by the end of 2026, up from under 5% in 2025. The same firm predicts that more than 40% of agentic AI projects will be canceled by the end of 2027, citing rising costs, unclear business value and weak risk controls.",
+        "Both forecasts can be true at once. Agents are showing up inside the software teams already use, while many custom agent projects started on hype will stall. Gartner also warns about \"agent washing\": by its estimate, only about 130 of the thousands of vendors marketing agentic AI offer real agentic capabilities.",
+        "From a delivery seat, the pattern is familiar. The projects that survive pick a narrow task with a measured baseline, budget for evaluation and guardrails from day one, and name who approves what the agent does. Projects that start with \"let's add an agent\" and no success metric are the ones that end up cut.",
+        "My takeaway: before funding an agent, write down the decision it supports, the metric it should move, and the control that stops it when it is wrong."
+      ],
+      "tags": ["Adoption", "ROI", "Governance"],
+      "sources": [
+        {
+          "title": "Gartner: Over 40% of Agentic AI Projects Will Be Canceled by End of 2027 (June 2025)",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-06-25-gartner-predicts-over-40-percent-of-agentic-ai-projects-will-be-canceled-by-end-of-2027"
+        },
+        {
+          "title": "Gartner: 40% of Enterprise Apps Will Feature Task-Specific AI Agents by 2026 (August 2025)",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025"
+        }
+      ]
+    }
+  ]
+}
