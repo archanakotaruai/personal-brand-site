@@ -22,6 +22,33 @@
           "url": "https://www.gartner.com/en/newsroom/press-releases/2025-08-26-gartner-predicts-40-percent-of-enterprise-apps-will-feature-task-specific-ai-agents-by-2026-up-from-less-than-5-percent-in-2025"
         }
       ]
+    },
+    {
+      "slug": "2026-10-19-agent-authority-outpacing-oversight",
+      "date": "2026-10-19",
+      "title": "AI agents are getting authority faster than they are getting oversight",
+      "summary": "New surveys show agents approving transactions and changing controls while only 9% of firms have redesigned workflows and 5% of automakers report mature AI governance.",
+      "body": [
+        "Optro surveyed 417 governance, risk, compliance, audit and security leaders at organizations with 250 or more employees in North America and Europe. 38% let AI agents approve or reject transactions, 34% let them modify controls or policies, and 27% let them change user permissions or access rights. Meanwhile, 34% have acted on an inaccurate agent decision or output, 30% have seen an agent take an unintended action, and only 9% have redesigned workflows to accommodate agents.",
+        "A Capgemini Research Institute survey of 800 automotive executives shows the same gap in one industry. 68% already use (33%) or pilot (35%) agentic AI in product development, but only 5% report fully mature AI governance. Trust reaches 59% for upstream research and concept work and falls to 40% in development activities.",
+        "From a delivery seat, adoption is no longer the bottleneck; oversight is. Optro also found 46% of organizations say employees now spend more time reviewing, validating or correcting AI outputs. That is the hidden cost of dropping an agent into an old workflow instead of redesigning the workflow around it. I treat agent permissions the way I treat privileged access: scoped, logged and reviewed on a schedule.",
+        "My takeaway: before an agent can approve, change or grant anything, give that authority a named human owner, an audit trail and a rollback path. If you cannot, keep the agent in recommend-only mode."
+      ],
+      "tags": [
+        "Governance",
+        "Security",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "Optro: One in Three Organizations Say They Have Acted on Wrong Decisions Made by AI Agents (October 2026)",
+          "url": "https://optro.ai/blog/one-in-three-organizations-say-they-have-acted-on-wrong-decisions-made-by-ai-agents-optro-research-finds"
+        },
+        {
+          "title": "Capgemini: 68% of automotive organizations use or pilot agentic AI for product development, but only 5% report mature AI governance (October 2026)",
+          "url": "https://www.capgemini.com/news/press-releases/68-of-automotive-organizations-use-or-pilot-agentic-ai-for-product-development-but-only-5-report-mature-ai-governance-2/"
+        }
+      ]
     }
   ]
 }
