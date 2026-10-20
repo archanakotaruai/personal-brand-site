@@ -11,7 +11,11 @@
         "From a delivery seat, the pattern is familiar. The projects that survive pick a narrow task with a measured baseline, budget for evaluation and guardrails from day one, and name who approves what the agent does. Projects that start with \"let's add an agent\" and no success metric are the ones that end up cut.",
         "My takeaway: before funding an agent, write down the decision it supports, the metric it should move, and the control that stops it when it is wrong."
       ],
-      "tags": ["Adoption", "ROI", "Governance"],
+      "tags": [
+        "Adoption",
+        "ROI",
+        "Governance"
+      ],
       "sources": [
         {
           "title": "Gartner: Over 40% of Agentic AI Projects Will Be Canceled by End of 2027 (June 2025)",
@@ -47,6 +51,33 @@
         {
           "title": "Capgemini: 68% of automotive organizations use or pilot agentic AI for product development, but only 5% report mature AI governance (October 2026)",
           "url": "https://www.capgemini.com/news/press-releases/68-of-automotive-organizations-use-or-pilot-agentic-ai-for-product-development-but-only-5-report-mature-ai-governance-2/"
+        }
+      ]
+    },
+    {
+      "slug": "2026-10-20-ai-agents-need-an-id-badge-and-a-manager",
+      "date": "2026-10-20",
+      "title": "AI agents need an ID badge and a manager",
+      "summary": "ServiceNow's AI Passport gives agents a signed runtime credential, and one CISO says every one of his 1,500 agents has an employee ID and a manager.",
+      "body": [
+        "On October 15, ServiceNow announced AI Passport, a cryptographically signed credential that AI agents check at runtime to verify the scope an enterprise has authorized. It applies to ServiceNow and third-party agents and to MCP servers, and it can redirect, restrict or terminate an agent that drifts. It ships with shadow AI detection and 400+ discovery connectors, and is expected in Q4 2026.",
+        "The announcement included two numbers worth noting. ServiceNow's 2026 Banking AI Maturity Index found that 100 percent of banks report using AI, but only 24 percent have the governance to match it. And the CISO of LTM said the company has deployed 1,500 AI agents, each assigned an employee ID and manager.",
+        "From a delivery seat, that second detail matters more than the product. Once you have dozens of agents across teams and vendors, the hard question is no longer what an agent can do. It is which agent did it, under whose authority, and who answers for it. Identity is how you get there, and it is far easier to design in at the pilot than to retrofit after go-live.",
+        "My takeaway: register every agent like a new hire before it touches production. Give it a unique identity, a named human manager, a defined scope and an offboarding date."
+      ],
+      "tags": [
+        "Governance",
+        "Security",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "ServiceNow: ServiceNow advances its operational harness for enterprise AI with AI Passport and expanded governance capabilities (October 2026)",
+          "url": "https://newsroom.servicenow.com/press-releases/details/2026/ServiceNow-advances-its-operational-harness-for-enterprise-AI-with-AI-Passport-and-expanded-governance-capabilities/default.aspx"
+        },
+        {
+          "title": "CIO: ServiceNow makes it easier to build AI agents, gives them verifiable identities (October 2026)",
+          "url": "https://www.cio.com/article/4235863/servicenow-makes-it-easier-to-build-ai-agents-gives-them-verifiable-identities.html"
         }
       ]
     }
