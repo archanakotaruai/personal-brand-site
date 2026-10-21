@@ -80,6 +80,37 @@
           "url": "https://www.cio.com/article/4235863/servicenow-makes-it-easier-to-build-ai-agents-gives-them-verifiable-identities.html"
         }
       ]
+    },
+    {
+      "slug": "2026-10-21-ai-agents-at-city-hall-need-named-owners",
+      "date": "2026-10-21",
+      "title": "AI agents are going to work at city hall. Give each one an owner.",
+      "summary": "State and local pilots show real gains from AI agents, and the Urban Institute's playbook says governance has to come first, with seven named roles per agent.",
+      "body": [
+        "State and local governments are moving past chatbots. As PYMNTS reported on October 19, a Virginia pilot used agentic AI to review regulatory documents, identifying more than $1.4 billion in annual savings and cutting permit and license processing times by nearly 80 percent. In Utah, a prescription renewal pilot recommended renewal in 72 percent of cases, and physicians agreed with 91 percent of those recommendations. A World Economic Forum framework cited in the same piece maps 70 government functions and finds half are ready for agentic AI.",
+        "The Urban Institute's Responsible Agentic AI Playbook explains why results like these need structure behind them. Agents can be built by staff outside IT, which speeds things up but raises the risk of errors, especially in areas like benefits. The playbook asks agencies to document each agent's purpose, target population, outcomes and costs, and to scale oversight to how public-facing the agent is.",
+        "From a delivery seat, the most useful part is the roles. The playbook names seven: accountable owner, evaluation lead, security lead, transparency lead, responsible AI lead, contributor and independent review. That turns governance from a policy memo into a staffing plan you can actually check.",
+        "My takeaway: before an agent goes live, fill in those seven names. If a seat is empty, the agent is not ready."
+      ],
+      "tags": [
+        "Government",
+        "Governance",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "PYMNTS: AI Agents Are Going to Work at City Hall (October 2026)",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-are-going-to-work-at-city-hall/"
+        },
+        {
+          "title": "PYMNTS: Urban Institute Urges Guardrails as Governments Experiment With Agentic AI (September 2026)",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/urban-institute-urges-guardrails-as-governments-experiment-with-agentic-ai/"
+        },
+        {
+          "title": "HHS ACF PEER-TA: Responsible Agentic AI Playbook: A Practical Guide for State and Local Government Agencies (August 2026)",
+          "url": "https://peerta.acf.hhs.gov/content/responsible-agentic-ai-playbook-practical-guide-state-and-local-government-agencies"
+        }
+      ]
     }
   ]
 }
