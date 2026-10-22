@@ -111,6 +111,37 @@
           "url": "https://peerta.acf.hhs.gov/content/responsible-agentic-ai-playbook-practical-guide-state-and-local-government-agencies"
         }
       ]
+    },
+    {
+      "slug": "2026-10-22-ai-agent-value-needs-stop-rules",
+      "date": "2026-10-22",
+      "title": "The AI agent value gap is a stop-rule gap",
+      "summary": "Gartner's new surveys show only 13% of CIOs see significant AI value. The leaders have rules for killing pilots and plans to redesign roles around agents.",
+      "body": [
+        "This week at Gartner IT Symposium, the numbers on AI value were sobering. A survey of 2,002 CIOs and technology executives found only 13% say their enterprise has realized significant or transformational value from AI, and use case success is still about one in five. A separate CEO survey found 44% of CEOs struggle to show AI financial returns, yet 52% named aggressively deploying AI agents as employees as a top move to get there. Meanwhile, 71% of organizations expect to deploy agentic AI within 12 months, while only 21% have agentic AI governance in place.",
+        "What separates the leaders is discipline, not spend. Organizations with rules for stopping a pilot before production are 2.3 times more likely to be what Gartner calls vanguards, and those with rules for retiring low-value AI already in production are 2.6 times more likely. Only 31% and 17% of CIOs have those rules. Just 4% have plans to redesign roles for a human-agent workforce, a practice tied to 2.4 times better odds.",
+        "From a delivery seat, this matches what I see in portfolios: agents are easy to start and hard to stop. Without exit criteria, pilots linger, costs grow, and no one owns the decision to shut them down.",
+        "My takeaway: write the kill criteria into every agent charter before the first sprint, and review them at the production gate and quarterly after."
+      ],
+      "tags": [
+        "ROI",
+        "Governance",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "Gartner: Survey Finds Only 13% of CIOs Say Their Enterprise Has Realized Significant or Transformational Value from AI (October 2026)",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-survey-finds-only-13-percent-of-cios-say-their-enterprise-has-realized-significant-or-transformational-value-from-ai"
+        },
+        {
+          "title": "Gartner: 44% of CEOs Struggle to Demonstrate AI Financial Returns as Technology Becomes Central to Growth (October 2026)",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-20-gartner-says-44-percent-of-ceos-struggle-to-demonstrate-ai-financial-returns-as-technology-becomes-central-to-growth"
+        },
+        {
+          "title": "Gartner: AI Risk is Rising Faster Than AI Value (October 2026)",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-it-symposium-xpo-keynote-release-2026"
+        }
+      ]
     }
   ]
 }
