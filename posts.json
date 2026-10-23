@@ -142,6 +142,33 @@
           "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-19-gartner-it-symposium-xpo-keynote-release-2026"
         }
       ]
+    },
+    {
+      "slug": "2026-10-23-ai-agents-human-review-is-back",
+      "date": "2026-10-23",
+      "title": "Human review is back in the AI agent plan. Budget for it.",
+      "summary": "Fewer enterprises now let AI agents ship production changes without a human check, even as many report agents that passed testing and still failed in front of customers.",
+      "body": [
+        "Enterprises are pulling back on letting AI agents act unchecked. In VentureBeat Intelligence's August survey, 56% of organizations deploying autonomous agents allow, or are building toward, production changes based on automated evaluations alone, down from 75% in July. The share planning to keep human review for the foreseeable future rose from 20% to 42%. Meanwhile, 61% of respondents running pre-deployment evaluations reported an agent or LLM feature that passed internal testing and then caused a customer-facing failure within 12 months.",
+        "IBM's new survey of 3,221 executives across Europe and the Middle East shows the same tension. 35% run agentic AI in production and 75% expect agents to have some decision autonomy by 2027, yet only 37% say their governance is designed to scale with agentic AI. What they say they will need: defined human escalation thresholds (32%), real-time monitoring and audit trails (30%), and the ability to halt agent activity immediately (29%).",
+        "From a delivery seat, this is a healthy correction, not a retreat. Passing a test suite is not the same as being right in production, and only 29% of agent deployers primarily use real-time quality checks on live outputs. Human review is a real workload, and it needs capacity, owners and a plan to shrink it as evidence builds.",
+        "My takeaway: put reviewer hours and an escalation path in the agent's delivery plan, and define the production evidence that lets you reduce review over time."
+      ],
+      "tags": [
+        "Evaluation",
+        "Governance",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "VentureBeat: The share of enterprises trusting AI agents to make production changes on their own has fallen from 75% to 56%, VB Intelligence finds (October 2026)",
+          "url": "https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds"
+        },
+        {
+          "title": "IBM: Eight in Ten EMEA Enterprises Escalate AI Incidents to Board or C-Suite as AI Agents Test Governance (October 2026)",
+          "url": "https://newsroom.ibm.com/2026-10-14-ibm-study-eight-in-ten-emea-enterprises-escalate-ai-incidents-to-board-or-c-suite-as-ai-agents-test-governance"
+        }
+      ]
     }
   ]
 }
