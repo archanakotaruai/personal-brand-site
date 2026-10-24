@@ -169,6 +169,37 @@
           "url": "https://newsroom.ibm.com/2026-10-14-ibm-study-eight-in-ten-emea-enterprises-escalate-ai-incidents-to-board-or-c-suite-as-ai-agents-test-governance"
         }
       ]
+    },
+    {
+      "slug": "2026-10-24-ai-agents-workflow-redesign-is-the-real-work",
+      "date": "2026-10-24",
+      "title": "Plugging in an AI agent is easy. Redesigning the workflow is the work.",
+      "summary": "New Wharton and ICF surveys show agents are widely in use, but few organizations have rebuilt the workflows around them, and that is where the returns are.",
+      "body": [
+        "Two new surveys point at the same bottleneck. In Wharton and GBK Collective's 2026 AI Adoption Report (about 1,400 respondents at U.S. enterprises with 1,000+ employees), 67% of departments say they use agents, yet only 28% describe AI as fully embedded in core business processes and only 20% have reached all three of the study's transformation milestones. Those that have are far ahead: 67% report strongly positive ROI, against 19% of those that have not.",
+        "The public sector sees the same wall. In an ICF and MeriTalk survey of 100 federal IT decision-makers, 45% say agentic AI runs in at least one production workflow, but 91% call redesigning workflows their biggest obstacle to scaling. Only 35% have defined human-in-the-loop review processes, 34% have clarified decision authority, and 33% have trained staff to work with agents.",
+        "From a delivery seat, this is a familiar planning gap. Teams often scope the agent build carefully and treat the surrounding process as someone else's job: who hands work to the agent, who checks it, who owns the exception queue, which steps disappear. When that redesign is skipped, the agent becomes one more tool on top of the old process, and the returns stay small.",
+        "My takeaway: give every agent project a workflow owner and a before-and-after process map, and make the redesigned process, not the deployed agent, the milestone you report."
+      ],
+      "tags": [
+        "Adoption",
+        "Change Management",
+        "ROI"
+      ],
+      "sources": [
+        {
+          "title": "Knowledge at Wharton: The Adaptive Advantage: Who's Winning With AI and How, 2026 AI Adoption Report (October 2026)",
+          "url": "https://knowledge.wharton.upenn.edu/special-report/2026-ai-adoption-report/"
+        },
+        {
+          "title": "Wharton Human-AI Research and GBK Collective: 2026 AI Adoption Report Executive Summary (October 2026)",
+          "url": "https://knowledge.wharton.upenn.edu/wp-content/uploads/2026/10/Wharton-GBK-AI-Adoption-Report-2026_Exec-Summary.pdf"
+        },
+        {
+          "title": "ICF: Vast Majority of Federal IT Leaders Say Outdated Workflows are the Biggest Challenge to Scaling Agentic AI (October 2026)",
+          "url": "https://www.icf.com/news/2026/10/report-challenge-federal-ai-adoption-operational"
+        }
+      ]
     }
   ]
 }
