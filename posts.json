@@ -200,6 +200,33 @@
           "url": "https://www.icf.com/news/2026/10/report-challenge-federal-ai-adoption-operational"
         }
       ]
+    },
+    {
+      "slug": "2026-10-25-ai-agent-mistakes-plan-the-undo",
+      "date": "2026-10-25",
+      "title": "AI agents will make mistakes. Plan the undo before go-live.",
+      "summary": "A new Nylas survey finds 54% of companies had an AI agent error in 90 days, and incidents climb as agent counts grow. Recovery needs to be designed, not improvised.",
+      "body": [
+        "A new Nylas survey of 1,030 U.S. professionals who build, buy, or influence AI systems, fielded August 26 to September 12, found that 54% had an AI agent make a mistake in the past 90 days. The most common failure was an agent triggering a workflow the team had to reverse (31%), followed by updating the wrong record (25%) and sending an incorrect or inappropriate email (18%). Incidents rise with scale: 45% of organizations running one to five agents reported one, compared with 70% of those running more than 20.",
+        "Autonomy is growing anyway. The share of teams letting agents act without any human approval nearly doubled since December 2025, from 4.2% to 7.5%. On October 20, Gartner named AI context platforms one of its top strategic technology trends for 2027, warning that without a dedicated context layer, organizations face overprivileged agents, compliance failures and low trust.",
+        "From a delivery seat, the useful question is not whether an agent will make a mistake but how cheap that mistake is to undo. Teams test the happy path and rarely rehearse recovery: which actions can be reversed, who gets alerted, how fast a wrong record is corrected. As agent counts grow, that recovery work multiplies.",
+        "My takeaway: before an agent gets write access, classify each action it can take as reversible or not, require human approval for the irreversible ones, and make a rollback drill part of go-live."
+      ],
+      "tags": [
+        "Adoption",
+        "Risk",
+        "Operations"
+      ],
+      "sources": [
+        {
+          "title": "Business Wire via FinancialContent: 54% of Companies Report an AI Agent Error in the Past 90 Days, Nylas Survey Finds (October 2026)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-20-54-of-companies-report-an-ai-agent-error-in-the-past-90-days-nylas-survey-finds"
+        },
+        {
+          "title": "Gartner: Gartner Identifies the Top Strategic Technology Trends for 2027 (October 2026)",
+          "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2027"
+        }
+      ]
     }
   ]
 }
