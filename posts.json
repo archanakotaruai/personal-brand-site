@@ -227,6 +227,37 @@
           "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-20-gartner-identifies-the-top-strategic-technology-trends-for-2027"
         }
       ]
+    },
+    {
+      "slug": "2026-10-26-shadow-ai-agents-inventory-and-disclosure",
+      "date": "2026-10-26",
+      "title": "Shadow AI agents are here. Start with an inventory and a disclosure rule.",
+      "summary": "Most AI agents in many organizations lack formal IT approval, and some leaders would hide an agent incident. Inventory and disclosure rules come first.",
+      "body": [
+        "A Workato survey of 1,001 IT decision-makers, reported by CIO Dive this month, found nearly two-thirds say most AI agents in their organization lack formal IT approval. Almost two-thirds expect an agent to cause a public security or compliance incident within the next year and a half, and roughly one-third would try to handle a major incident quietly without disclosing it. SailPoint's 2026 identity report adds that 79% of organizations run agents in production, yet only 15% can provision non-human access in real time and 43% feel prepared to produce evidence in an AI-related audit.",
+        "This matters because unapproved agents and quiet fixes compound each other. You cannot govern, audit, or insure what you never registered, and an incident handled off the books becomes a bigger one later.",
+        "From a delivery seat, shadow agents are a sign that the approved path is too slow. Security pros polled by O'Reilly named agents holding excessive permissions or lacking an obvious owner as their top agent worry. The fix is a fast intake: register the agent, name an owner, scope its access, and log what it does.",
+        "Takeaway: this week, publish a one-page agent register and a written rule that every agent incident gets reported, no matter how small."
+      ],
+      "tags": [
+        "Adoption",
+        "Governance",
+        "Security"
+      ],
+      "sources": [
+        {
+          "title": "CIO Dive: IT execs brace for AI agent security incidents (October 2026)",
+          "url": "https://www.ciodive.com/news/it-execs-brace-ai-agent-security-incidents/832903/"
+        },
+        {
+          "title": "SailPoint via GlobeNewswire: 79% of Enterprises Run AI Agents in Production, Yet Only 2% Have Deployed Purpose-built Security (October 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/06/3375448/0/en/sailpoint-report-finds-79-of-enterprises-run-ai-agents-in-production-yet-only-2-have-deployed-purpose-built-security.html"
+        },
+        {
+          "title": "Help Net Security: Security pros reckon the biggest AI risk comes with an employee badge (October 2026)",
+          "url": "https://www.helpnetsecurity.com/2026/10/26/ai-tools-security-worry-survey/"
+        }
+      ]
     }
   ]
 }
