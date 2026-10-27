@@ -258,6 +258,37 @@
           "url": "https://www.helpnetsecurity.com/2026/10/26/ai-tools-security-worry-survey/"
         }
       ]
+    },
+    {
+      "slug": "2026-10-27-uk-finance-ai-agents-decision-support-first",
+      "date": "2026-10-27",
+      "title": "UK finance runs AI agents widely. Almost none let them act alone.",
+      "summary": "A Bank of England and FCA survey finds 80% of firms run AI agents, but only 2% give them broad autonomy. Decision support is where adoption lands first.",
+      "body": [
+        "The Bank of England and FCA published their 2026 survey of AI in UK financial services this week, drawing 196 responses. 80% of respondents reported having AI agents deployed, and a further 14% plan to deploy them in the next 12 months. Yet 80% use agents for decision support, where the agent recommends and a human decides and executes, and only 2% have deployed agents with broad autonomy. Even counting plans, no more than 9% expect agents to approve customer outcomes, execute trades, move payments, or change limits and controls.",
+        "This matters because it shows what scaled adoption looks like in a regulated industry. Firms are not waiting for full autonomy to get value. They are putting agents to work next to people and keeping money movement and controls in human hands. The survey also found third-party systems now make up 53% of high-materiality AI systems, up from 35% in 2024, so much of that value depends on vendors.",
+        "From a delivery seat, this is the right sequence. Decision support lets you measure accuracy against real human calls before any agent gets write access. Autonomy should be earned per action, with evidence, not granted per platform.",
+        "Takeaway: classify every agent action as recommend, execute with approval, or execute alone, and require a written case before anything moves up a level."
+      ],
+      "tags": [
+        "Adoption",
+        "Governance",
+        "Financial Services"
+      ],
+      "sources": [
+        {
+          "title": "Bank of England: Artificial intelligence in UK financial services - 2026 (October 2026)",
+          "url": "https://www.bankofengland.co.uk/report/2026/artificial-intelligence-in-uk-financial-services-2026"
+        },
+        {
+          "title": "Regulation Tomorrow: BoE and FCA publish joint report on AI in UK financial services (October 2026)",
+          "url": "https://www.regulationtomorrow.com/2026/10/boe-and-fca-publish-joint-report-on-ai-in-uk-financial-services/"
+        },
+        {
+          "title": "Resultsense: BoE/FCA AI survey 2026: agents widespread, autonomy limited (October 2026)",
+          "url": "https://www.resultsense.com/news/2026-10-27-boe-fca-ai-survey-2026-agents-third-parties/"
+        }
+      ]
     }
   ]
 }
