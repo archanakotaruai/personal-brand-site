@@ -289,6 +289,33 @@
           "url": "https://www.resultsense.com/news/2026-10-27-boe-fca-ai-survey-2026-agents-third-parties/"
         }
       ]
+    },
+    {
+      "slug": "2026-10-28-ungoverned-ai-agents-cloud-bill",
+      "date": "2026-10-28",
+      "title": "Ungoverned AI agents show up first on the cloud bill",
+      "summary": "A Redwood survey finds 77% of firms have paid for ungoverned AI agents, most often in surprise cloud costs. Put a budget and an ROI measure on every agent.",
+      "body": [
+        "Redwood Software surveyed 300 senior technology, risk and AI leaders across the U.S., Canada and the U.K., as reported by CFO Dive on Oct. 27. 77% said their organizations had experienced negative consequences from ungoverned AI agents, with unexpected cloud costs the most common problem, followed by operational disruption and compliance issues. Nearly nine in 10 had increased agentic AI deployment over the past year, yet only about 58% have a formal AI governance policy that is consistently enforced. Just 48% were very confident they are accurately measuring AI investment returns.",
+        "The same week, ISG reported that 79% of enterprises plan to increase AI technology spending, and that improved governance is the most significant change companies say they would make based on their experience so far. ISG also found agents more commonly coordinate and perform defined tasks than independently own consequential processes.",
+        "From a delivery seat, the cloud bill is the earliest warning you get. An agent that loops, retries or calls a large model for every step burns money before it causes a visible incident. If spend is not tracked per agent, ROI cannot be measured per agent either, and the business case turns into guesswork.",
+        "Takeaway: give every production agent a cost owner, a monthly spend limit with alerts, and one outcome metric reviewed alongside the bill."
+      ],
+      "tags": [
+        "Governance",
+        "ROI",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "CFO Dive: Agentic AI fallout hits 77% of firms, survey finds (October 2026)",
+          "url": "https://www.cfodive.com/news/77percent-enterprises-report-fallout-ungoverned-ai-agents/872836/"
+        },
+        {
+          "title": "ISG via Business Wire: Enterprises Empower AI Agents for Bounded Tasks (October 2026)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-27-enterprises-empower-ai-agents-for-bounded-tasks"
+        }
+      ]
     }
   ]
 }
