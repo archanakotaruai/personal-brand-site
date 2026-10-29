@@ -316,6 +316,37 @@
           "url": "https://www.financialcontent.com/article/bizwire-2026-10-27-enterprises-empower-ai-agents-for-bounded-tasks"
         }
       ]
+    },
+    {
+      "slug": "2026-10-29-ai-agent-leaderboards-are-not-your-acceptance-test",
+      "date": "2026-10-29",
+      "title": "AI agent leaderboards are not your acceptance test",
+      "summary": "New enterprise benchmarks show top agents fully solve about a third of realistic data tasks, and cost per task varies 13x. Build your own eval before you buy.",
+      "body": [
+        "Two benchmark releases this month put numbers on a gap delivery teams already feel. Argo-Bench, from TextQL, grades 210 analytics tasks against a simulated ERP warehouse of 235 tables and 7.5 billion rows. The strongest of 14 models scored 95 or higher on only 34.8% of tasks and averaged 59.5 points. Separately, Artificial Analysis rebuilt its Intelligence Index around agentic work and moved 60% of its scoring to private test sets.",
+        "Two details matter more than the rankings. In Argo-Bench, revising the prompt across 47 matched settings raised the mean score from 18.5 to 61.7. And in the new index, cost per task among the top ten models ranges from $0.96 to $13.04, more than 13 times. The same model scored 35 at low reasoning effort for $0.98 a task and 58 at maximum effort for $10.04.",
+        "My take: a leaderboard tells you which models to shortlist, not whether an agent is ready for your workflow. Task design, prompting and effort settings move results as much as model choice, and the Argo-Bench authors themselves say simulator scores do not predict performance on a real company's warehouse.",
+        "Takeaway: before any agent goes to production, build a small acceptance suite of 20 to 50 real tasks from your own workflow, define what a passing answer looks like, and track score and cost per task together for every model and setting you test."
+      ],
+      "tags": [
+        "Evaluation",
+        "Adoption",
+        "ROI"
+      ],
+      "sources": [
+        {
+          "title": "alphaXiv: Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows (October 2026)",
+          "url": "https://www.alphaxiv.org/abs/2610.02122"
+        },
+        {
+          "title": "AI Weekly: Argo-Bench: Top Data Agent Clears 95+ on Just 34.8% of Tasks (October 2026)",
+          "url": "https://aiweekly.co/alerts/argo-bench-top-data-agent-clears-95-on-just-348-of-tasks"
+        },
+        {
+          "title": "Tech Times: Agentic AI Benchmarks Widen Proprietary-Model Edge to 12 Points in Artificial Analysis v5 Overhaul (October 2026)",
+          "url": "https://www.techtimes.com/articles/329670/20261029/agentic-ai-benchmarks-widen-proprietary-model-edge-12-points-artificial-analysis-v5-overhaul.htm"
+        }
+      ]
     }
   ]
 }
