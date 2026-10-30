@@ -347,6 +347,33 @@
           "url": "https://www.techtimes.com/articles/329670/20261029/agentic-ai-benchmarks-widen-proprietary-model-edge-12-points-artificial-analysis-v5-overhaul.htm"
         }
       ]
+    },
+    {
+      "slug": "2026-10-30-leaders-use-ai-agents-their-teams-do-not",
+      "date": "2026-10-30",
+      "title": "Leaders use AI agents. Their teams mostly do not.",
+      "summary": "New surveys show senior leaders far ahead of their teams on AI agents. Adoption plans need to start with the people doing the work.",
+      "body": [
+        "Two October data points describe the same split. Workday's September survey of nearly 6,000 workers found 88% of senior leaders have used agentic AI to complete tasks, against 54% of individual contributors. Only 38% of all employees say they understand the term AI agent well enough to explain it. An Asana survey of 4,502 people in the US and UK, as reported by The Octalysis Group, found 68% of CIOs and AI leaders use three or more agents a week, compared with 36% of office workers who use AI.",
+        "The gap is not only about usage. In the Asana data, just 23% of workers say their agents address the tasks they most need help with, and 81% of leaders are comfortable with agents acting without step-by-step review, versus 65% of workers.",
+        "My take: when the people approving agent rollouts are the heaviest users, it is easy to read their experience as the organization's readiness. The pilots look good from the top while frontline teams get agents aimed at the wrong work and a vocabulary nobody explained.",
+        "Takeaway: before scaling an agent, interview five to ten people who will actually use it, ask which tasks cost them the most time, and set the review level with them. Track adoption by role, not as one company-wide number."
+      ],
+      "tags": [
+        "Workforce",
+        "Change Management",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "Workday: Leaders Understand AI Agents, Employees Don't. Here's Why. (October 2026)",
+          "url": "https://www.workday.com/en-us/perspectives/ai/ai-at-work-october.html"
+        },
+        {
+          "title": "The Octalysis Group: The Agentic Gap: Why Leaders Use AI Agents and Their Teams Do Not (October 2026)",
+          "url": "https://octalysisgroup.com/2026/10/agentic-gap-leaders-workers"
+        }
+      ]
     }
   ]
 }
