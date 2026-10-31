@@ -374,6 +374,33 @@
           "url": "https://octalysisgroup.com/2026/10/agentic-gap-leaders-workers"
         }
       ]
+    },
+    {
+      "slug": "2026-10-31-enterprise-ai-agent-buyers-want-control-not-autonomy",
+      "date": "2026-10-31",
+      "title": "Enterprise AI agent buyers want control, not more autonomy",
+      "summary": "G2 review data shows enterprises want agents they can see into and steer. Visibility and control features belong in the rollout plan, not the backlog.",
+      "body": [
+        "G2 published an analysis on October 30 of 3,222 enterprise reviews of AI agents across 231 products. Only 7% of enterprise reviewers want total autonomy; 60% want autonomy with guardrails. Asked what would raise their trust, 79% picked a visibility or control fix, led by explaining decisions (32%) and more guardrail settings (29%). Only 21% asked for better reliability. Meanwhile, the average share of users who adopted the agent fell from 68% in 2024 to 55% in 2026.",
+        "A RealVNC survey released October 28, of IT decision-makers in the US, UK and Canada, points the same way from the security side: only 26.4% of organizations can revoke an agent's access.",
+        "My take: enterprises are no longer judging agents mainly on whether the output is right. G2 found 92% rated output accuracy a 4 or 5, but only 82% said the same for explaining results or fixing mistakes. When people cannot see why an agent acted or how to steer it, they quietly stop using it, and the seat count drops.",
+        "Takeaway: make visibility a go-live requirement. Before rollout, confirm users can see why the agent acted, adjust its limits, and get a warning before risky actions, and confirm someone can switch its access off in minutes."
+      ],
+      "tags": [
+        "Adoption",
+        "Governance",
+        "Trust"
+      ],
+      "sources": [
+        {
+          "title": "G2: Stop Selling Autonomy: What 3,222 Enterprise Reviews Say AI Agent Buyers Want (October 2026)",
+          "url": "https://learn.g2.com/ai-agent-adoption-trends-enterprises-2026"
+        },
+        {
+          "title": "RealVNC via PRWeb: Many Organizations Let AI Agents Act, But Few Can Stop Them (October 2026)",
+          "url": "https://www.prweb.com/releases/many-organizations-let-ai-agents-act-but-few-can-stop-them-302922038.html"
+        }
+      ]
     }
   ]
 }
