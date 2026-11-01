@@ -401,6 +401,33 @@
           "url": "https://www.prweb.com/releases/many-organizations-let-ai-agents-act-but-few-can-stop-them-302922038.html"
         }
       ]
+    },
+    {
+      "slug": "2026-11-01-ai-agents-doubling-verify-what-they-decide",
+      "date": "2026-11-01",
+      "title": "AI agent counts are doubling. Verification has to keep pace.",
+      "summary": "IDC finds almost every enterprise runs agents in production, but few can continuously verify their decisions. Tie each agent launch to a named verification owner.",
+      "body": [
+        "IDC published its FutureScape 2027 predictions on October 27. Its survey found 95.4% of enterprises had deployed agents into an average of 11 production workflows through July 2026, and enterprises expect to nearly double the types of agents they run in production, from 23.5 in April to 43.2 by year-end. Yet only 14% of Global 2000 enterprises can continuously verify the decisions their agents make today. IDC predicts 70% will by 2028.",
+        "Why it matters: deployment is outrunning oversight, and the bill for that gap is getting concrete. IDC predicts Global 2000 enterprises without kill switches for production agents by 2028 will see 25% higher liability insurance premiums and twice as many material audit findings. As IDC's Meredith Whalen put it, the winners will verify what each agent does as fast as they deploy it.",
+        "My take: verification is a delivery capacity problem, not a tooling footnote. Every new agent adds decisions someone must sample, log and check. If the team reviewing agent behavior stays the same size while the agent count doubles, quality drops quietly until an audit or an incident finds it.",
+        "Takeaway: tie every agent launch to verification capacity. For each new agent, name who checks its decisions, how often and against what standard, and hold go-live until that check is running in production."
+      ],
+      "tags": [
+        "Adoption",
+        "Governance",
+        "Evaluation"
+      ],
+      "sources": [
+        {
+          "title": "IDC via GlobeNewswire: IDC FutureScape 2027 Predicts 60% of Enterprises Will Run a Majority of Their Business Processes AI-first by 2029 (October 2026)",
+          "url": "https://globenewswire.com/news-release/2026/10/27/3389500/0/en/idc-futurescape-2027-predicts-60-of-enterprises-will-run-a-majority-of-their-business-processes-ai-first-by-2029-up-from-13-in-2026.html"
+        },
+        {
+          "title": "IDC: IDC FutureScape 2027: The Great Rewrite Comes With Deadlines (October 2026)",
+          "url": "https://www.idc.com/resource-center/blog/idc-futurescape-2027-the-great-rewrite/"
+        }
+      ]
     }
   ]
 }
