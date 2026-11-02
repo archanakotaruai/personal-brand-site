@@ -428,6 +428,37 @@
           "url": "https://www.idc.com/resource-center/blog/idc-futurescape-2027-the-great-rewrite/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-02-agent-standards-are-settling-adoption-lags",
+      "date": "2026-11-02",
+      "title": "AI agent standards have a neutral home. Adoption still has to catch up.",
+      "summary": "The Agentic AI Foundation now has 305 members and 10 projects, but real-world protocol adoption is thin. Treat agent standards as interface decisions you test.",
+      "body": [
+        "On October 22 in San Jose, the Agentic AI Foundation said it has reached 305 members in under a year since its December 2025 launch. It also took in four projects: Agent Skills from Anthropic, Open Responses from OpenAI, OpenEnv from Hugging Face, and OpenSandbox from Alibaba. That brings it to 10 hosted projects, up from three at launch, alongside MCP and A2A.",
+        "Neutral governance for agent protocols lowers lock-in risk, and that is a real reason to build on them. But membership is not deployment. One count cited by Tobira found 421 of 27,840 providers in the APIs.io catalog, about 1.5%, serving an A2A agent card from their own host in September. The standards are settling faster than the field is adopting them.",
+        "In delivery terms, a protocol on a foundation logo is a direction, not a dependency you can lean on yet. I treat each one as an interface decision: which version we pin, who on the team owns upgrades, and how we test that our agents and our vendors' agents can actually talk to each other before go-live.",
+        "Takeaway: add an interoperability line to your agent architecture review. Name the protocols and versions in use, check what your key vendors truly support today, and keep an adapter layer so a spec change does not become a rebuild."
+      ],
+      "tags": [
+        "Standards",
+        "Interoperability",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "Linux Foundation: Agentic AI Foundation Surpasses 300 Members in Less Than One Year (October 2026)",
+          "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-surpasses-300-members-in-less-than-one-year"
+        },
+        {
+          "title": "Linux Foundation: Agentic AI Foundation Announces Four New Projects (October 2026)",
+          "url": "https://www.linuxfoundation.org/press/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox"
+        },
+        {
+          "title": "Tobira: A2A and MCP now share a home. What the Agentic AI Foundation settles, and what it leaves open (October 2026)",
+          "url": "https://blog.tobira.ai/a2a-mcp-agentic-ai-foundation/"
+        }
+      ]
     }
   ]
 }
