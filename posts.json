@@ -459,6 +459,33 @@
           "url": "https://blog.tobira.ai/a2a-mcp-agentic-ai-foundation/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-03-bank-ai-agent-blockers-shift-to-compliance",
+      "date": "2026-11-03",
+      "title": "Banks that deploy AI agents trade legacy worries for regulatory ones",
+      "summary": "A 160-person banking survey shows legacy-system concerns fall and regulatory concerns rise once AI agents go live. Bring compliance into the pilot.",
+      "body": [
+        "An American Banker survey sponsored by i2c, released October 20, asked 160 professionals at banks, credit unions, neobanks and payments firms about agentic AI. Nine in 10 call it a strategic priority, but only 37% are expanding it across multiple functions. Roughly three in four are exploring or piloting customer-facing agents.",
+        "The more useful finding is how the obstacles change with experience. Among institutions exploring customer-facing agents, 43% say legacy systems limit personalization, compared with 16% of active deployers. Regulatory concerns move the other way, rising from 24% among non-users to 47% among active deployers. On what matters most for scaling, data quality and accessibility led at 25%, ahead of governance and risk controls at 18%.",
+        "In delivery terms, this is predictable. Before go-live, teams plan around integration because it is the visible blocker. Once an agent is talking to real customers, the hard questions become who approved it, what it is allowed to say, and how you show that to an examiner. Compliance work that starts after the pilot turns into rework and delay.",
+        "Takeaway: bring compliance and model risk into the pilot, not the production review. Agree up front on the evidence a regulator would ask for, and build the logging and approval steps that produce it before you scale."
+      ],
+      "tags": [
+        "Adoption",
+        "Governance",
+        "Financial Services"
+      ],
+      "sources": [
+        {
+          "title": "Business Wire: From Ambition to Execution: i2c and American Banker Research Maps Financial Institutions' Agentic AI Readiness (October 2026)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-20-from-ambition-to-execution-i2c-and-american-banker-research-maps-financial-institutions-agentic-ai-readiness"
+        },
+        {
+          "title": "American Banker: The agentic AI readiness report: architecture, workflows and personalization (October 2026)",
+          "url": "https://www.americanbanker.com/report/the-agentic-ai-readiness-report-architecture-workflows-and-personalization"
+        }
+      ]
     }
   ]
 }
