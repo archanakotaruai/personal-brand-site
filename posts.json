@@ -486,6 +486,33 @@
           "url": "https://www.americanbanker.com/report/the-agentic-ai-readiness-report-architecture-workflows-and-personalization"
         }
       ]
+    },
+    {
+      "slug": "2026-11-04-ai-agent-stop-switch-before-autonomy",
+      "date": "2026-11-04",
+      "title": "Most teams fence in their AI agents. Few can stop one quickly.",
+      "summary": "New surveys show most engineering teams restrict agent autonomy, yet under one in five can automatically halt a misbehaving agent. Test the stop before go-live.",
+      "body": [
+        "Komodor released its 2026 Agentic Operations Survey on November 4, drawing on more than 1,000 engineering and technology respondents. Nearly 84% run fleets of 10 or more operational agents, and 75.7% keep some restriction on autonomy: read-only tasks, human approval for changes, or noncritical workloads only. Building safe guardrails was the top challenge at 53.6%, and 42.7% cite poor visibility into agent permissions.",
+        "A Salt Security survey of more than 380 security and technology professionals, published October 13, shows why that caution makes sense. 49.8% confirmed or suspected that an agent took an action their organization did not intend or authorize in the past year. Yet only 17.5% can automatically stop an agent that starts behaving unexpectedly in production, and only 12.5% can consistently trace an agent's full path from instruction to outcome.",
+        "Restrictions are a sensible start, but a restriction is a policy, not a control. Once agents chain across tools and APIs, the incident question becomes how fast you can halt one and reconstruct what it did. More than 60% of Salt's respondents said rebuilding one agent's previous day would take hours or days of manual work.",
+        "Takeaway: make a tested stop mechanism and end-to-end tracing go-live criteria for any agent with write access. Run a drill: halt one agent and rebuild yesterday's actions. If that takes hours, hold off on widening its autonomy."
+      ],
+      "tags": [
+        "Governance",
+        "Security",
+        "Operations"
+      ],
+      "sources": [
+        {
+          "title": "GlobeNewswire: Komodor Survey Finds More Than 50% of Engineering Organizations Face Control and Governance Issues as They Scale Agentic Operations (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395406/0/en/komodor-survey-finds-more-than-50-of-engineering-organizations-face-control-and-governance-issues-as-they-scale-agentic-operations.html"
+        },
+        {
+          "title": "PR Newswire: Nearly Half of Enterprises Report an AI Agent Took an Unauthorized Action Last Year, Salt Security Research Finds (October 2026)",
+          "url": "https://www.prnewswire.com/news-releases/nearly-half-of-enterprises-report-an-ai-agent-took-an-unauthorized-action-last-year-salt-security-research-finds-302906338.html"
+        }
+      ]
     }
   ]
 }
