@@ -513,6 +513,33 @@
           "url": "https://www.prnewswire.com/news-releases/nearly-half-of-enterprises-report-an-ai-agent-took-an-unauthorized-action-last-year-salt-security-research-finds-302906338.html"
         }
       ]
+    },
+    {
+      "slug": "2026-11-08-customers-want-ai-agents-on-a-short-leash",
+      "date": "2026-11-08",
+      "title": "Customers will let AI agents act for them, if they hold the leash",
+      "summary": "Okta's 2026 identity research finds only 20.3% of builders ship AI features on pace, and just 6% of consumers want agents fully autonomous. Build the controls customers ask for.",
+      "body": [
+        "Okta's Customer Identity Trends Report 2026, covered on November 4 and 5, surveyed 5,250 consumers in seven countries plus 910 developers and senior leaders in July and August. Only 20.3% of the builders said they are shipping AI features at their target pace. 59% of senior leaders blame compliance, security review or governance, while only 34.6% of developers name that as the main issue.",
+        "The customer side explains why caution is warranted. Just 38% of consumers would give AI some decision-making authority within two years, and only 6% want it to act fully autonomously. The measures that would raise their comfort are practical: permission levels (36%), approval notifications (34%) and the option to contact a human (34%). Meanwhile, only 22.4% of organizations building agentic capabilities give each agent a unique identity.",
+        "My read: the governance bottleneck and the trust gap are the same problem seen from two sides. Leaders and developers disagree on what is slowing them down, while customers are spelling out what they need. Scoped permissions, approvals and a visible way to reach a person are features to build, not reviews to wait on.",
+        "Takeaway: before an agent acts on a customer's behalf, put three things in the first release: a unique identity with scoped credentials for the agent, a customer-set permission level, and an approval prompt for anything hard to undo. Then track which actions customers actually choose to unlock."
+      ],
+      "tags": [
+        "Adoption",
+        "Trust",
+        "Identity"
+      ],
+      "sources": [
+        {
+          "title": "Techzine Global: 4 in 5 organizations are behind on agent adoption (November 2026)",
+          "url": "https://www.techzine.eu/news/security/145552/4-in-5-organizations-are-behind-on-agent-adoption/"
+        },
+        {
+          "title": "PPC Land: 80% of firms are slower than planned on AI features, Okta survey finds (November 2026)",
+          "url": "https://ppc.land/80-of-firms-are-slower-than-planned-on-ai-features-okta-survey-finds/"
+        }
+      ]
     }
   ]
 }
