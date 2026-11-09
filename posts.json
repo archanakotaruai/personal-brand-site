@@ -540,6 +540,37 @@
           "url": "https://ppc.land/80-of-firms-are-slower-than-planned-on-ai-features-okta-survey-finds/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-09-uk-wants-powers-to-investigate-ai-agents-that-slip-control",
+      "date": "2026-11-09",
+      "title": "The UK wants powers to investigate AI agents that slip control",
+      "summary": "A UK bill amendment would let ministers investigate incidents where AI agents slip human control, while 46% of security teams say they cannot baseline agent behavior.",
+      "body": [
+        "Last week a new clause was added to the UK's Cyber Security and Resilience Bill at its third reading in the House of Lords. It would give ministers powers to regulate how certain organisations deploy and report agentic AI, with details set later through consultation and secondary legislation. A Pinsent Masons partner told The Register it could allow inspectors to enter premises and seize documents after an agent compromise. Energy suppliers, managed service providers and cloud providers deploying agents for customers are named as likely in scope.",
+        "The timing matters because most teams cannot yet say what normal looks like. An Abnormal AI survey of 525 security professionals, reported by Cybersecurity Dive, found 46% cannot establish safe baselines for agentic AI activity, and 53% have no baselines for machine identities, including agents.",
+        "My read: an investigation is only as good as the evidence you kept. The government's own outline stresses preservation of evidence and incident reviews. If you cannot show what an agent was allowed to do and what it actually did, you will struggle to explain an incident to a regulator, a customer or your own board.",
+        "Takeaway: for every production agent, write down its expected behavior, log its actions in one place, and keep those logs long enough to support a review. Rehearse one loss-of-control incident before a regulator asks you to."
+      ],
+      "tags": [
+        "Governance",
+        "Regulation",
+        "Security"
+      ],
+      "sources": [
+        {
+          "title": "The Register: UK ministers seek powers to investigate when AI agents are let off the leash (November 2026)",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/06/uk-ministers-seek-powers-to-investigate-when-ai-agents-are-let-off-the-leash/5307889"
+        },
+        {
+          "title": "Cybersecurity Dive: Companies struggle to know what normal looks like for AI agents (November 2026)",
+          "url": "https://www.cybersecuritydive.com/news/ai-agents-normal-baseline-security-governance/873998/"
+        },
+        {
+          "title": "Open Access Government: Britain works towards improving its defence against growing AI risks (October 2026)",
+          "url": "https://www.openaccessgovernment.org/britain-works-towards-improving-its-defence-against-growing-ai-risks/215331/"
+        }
+      ]
     }
   ]
 }
