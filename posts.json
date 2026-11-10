@@ -571,6 +571,37 @@
           "url": "https://www.openaccessgovernment.org/britain-works-towards-improving-its-defence-against-growing-ai-risks/215331/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-10-ai-agents-ship-by-the-thousand-role-redesign-lags",
+      "date": "2026-11-10",
+      "title": "AI agents now ship by the thousand. Role redesign is lagging.",
+      "summary": "Microsoft and IBM are offering more than 6,000 pre-built agents, yet Gartner says only 4% of CIOs have adjusted roles for a human-agent workforce.",
+      "body": [
+        "Today Microsoft and IBM launched Imagine Enterprise, a platform for building and governing AI agents. IBM Consulting brings more than 6,000 pre-built agents, starting with financial services, insurance and retail, with forward deployed engineers from both companies to support adoption. In the same CIO Dive report, a Gartner finding stands out: only 4% of CIOs have implemented plans to adjust roles for a human-agent workforce.",
+        "Other new research points the same way. In an Interactive study of senior Australian executives, 71% of CIOs said their organisation was not prepared, or only slightly prepared, to manage an agentic workforce, and only 9% have enterprise-wide controls over what agents can access and act on. PYMNTS Intelligence found 75% of large US enterprise leaders expect changes in employee roles and skills, and just over half say people, processes and culture constrain AI more than technology does.",
+        "My read: agent supply is no longer the bottleneck. When a catalog offers thousands of agents, the slow part is deciding which human owns each outcome, what that person stops doing, and who approves the agent's work. Skip that and you get agents nobody manages and staff unsure of their job.",
+        "Takeaway: before you turn on a new agent, update the role descriptions it touches. Name the owner, list the tasks that move to the agent, and agree on how quickly someone can switch it off."
+      ],
+      "tags": [
+        "Workforce",
+        "Change Management",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "CIO Dive: Microsoft, IBM team up on AI agent platform (November 2026)",
+          "url": "https://www.ciodive.com/news/microsoft-ibm-team-up-ai-agent-platform/874152/"
+        },
+        {
+          "title": "SecurityBrief Australia: Australian firms not ready for AI at scale, study warns (November 2026)",
+          "url": "https://securitybrief.com.au/story/australian-firms-not-ready-for-ai-at-scale-study-warns"
+        },
+        {
+          "title": "PYMNTS: How Large US Companies Put AI Agents to Work (November 2026)",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/how-large-us-companies-put-ai-agents-to-work/"
+        }
+      ]
     }
   ]
 }
