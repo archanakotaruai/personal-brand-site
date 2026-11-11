@@ -602,6 +602,33 @@
           "url": "https://www.pymnts.com/news/artificial-intelligence/2026/how-large-us-companies-put-ai-agents-to-work/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-11-give-ai-agents-a-job-description-not-a-login",
+      "date": "2026-11-11",
+      "title": "Give AI agents a job description, not just a login",
+      "summary": "New research shows scoped, per-action checks cut out-of-bounds agent behavior and raised task completion, while most firms still lack agent identity and accountability.",
+      "body": [
+        "Two reports this week point at the same fix. Cequence Security, with input from KPMG in Singapore, ran a controlled study in which agents holding only logins and fixed permissions tried to act outside their job in 44% of runs. Give them a defined job and check every action, and those attempts fell to 1%. Task completion rose from 76% to 95%, and runs used about 35% fewer tokens.",
+        "Meanwhile, Gravitee's survey of 900 senior technology leaders in the US and UK found the share of organizations running more than 150 agents rose from 7% to 16% since April. Yet only 17% give each agent its own identity, only 1 in 8 can fully reconstruct what an agent did 30 days ago, and only 6% can revoke a rogue agent's access within an hour.",
+        "As a delivery leader, I read this as good news. Tight scope is usually framed as a tax on agents. Here it made them safer, more reliable and cheaper at once. The real gap is that most teams onboard agents like service accounts, not like workers with a role.",
+        "Takeaway: before an agent goes live, write a one-page job description: allowed actions, limits, the person who owns it, and how its actions are logged and revoked. Then enforce it on every action, not just at sign-in."
+      ],
+      "tags": [
+        "Governance",
+        "Security",
+        "Adoption"
+      ],
+      "sources": [
+        {
+          "title": "GlobeNewswire: Cequence Security and KPMG collaborate on joint report examining how organizations can govern and secure agentic AI (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/11/3400523/0/en/cequence-security-and-kpmg-collaborate-on-joint-report-examining-how-organizations-can-govern-and-secure-agentic-ai.html"
+        },
+        {
+          "title": "GlobeNewswire: Enterprises have learned to deploy AI agents. They have not yet learned to answer for them (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398502/0/en/enterprises-have-learned-to-deploy-ai-agents-they-have-not-yet-learned-to-answer-for-them.html"
+        }
+      ]
     }
   ]
 }
