@@ -629,6 +629,33 @@
           "url": "https://www.globenewswire.com/news-release/2026/11/09/3398502/0/en/enterprises-have-learned-to-deploy-ai-agents-they-have-not-yet-learned-to-answer-for-them.html"
         }
       ]
+    },
+    {
+      "slug": "2026-11-12-deploying-ai-agents-is-done-running-them-is-the-work",
+      "date": "2026-11-12",
+      "title": "Deploying AI agents is the easy part. Running them is the work.",
+      "summary": "Genpact's survey of 2,005 executives finds 79% have AI agents in production, but only 15% tie AI spend to P&L and just 9% have reworked their operating model.",
+      "body": [
+        "Genpact released a survey of 2,005 executives across 17 industries this week. 79% reported AI agents in production, yet only 20% use them broadly and consistently across functions. Only 15% have fully connected AI investment to specific profit-and-loss outcomes, and a weighted average of just 49% of AI initiatives funded over the past 24 months delivered their expected value.",
+        "The bottleneck is not the technology. Only 9% said they had completed a significant operating model transformation, even though AI now leads or acts on 40% of decisions, up from 19% in the previous study. And 92% of those running agents said their human workforce stayed roughly flat or grew, so the hours agents free up have to be put somewhere on purpose.",
+        "As a delivery leader, I see this pattern often. Teams celebrate the go-live, then nobody owns what changes next: which steps disappear, who takes the freed time, and which P&L line should move. Without that, agents add activity, not value.",
+        "Takeaway: give every agent deployment a value owner and a named P&L metric before launch, plus a written plan for where the freed hours go. Review both 90 days after go-live, and redesign the workflow if the number has not moved."
+      ],
+      "tags": [
+        "ROI",
+        "Adoption",
+        "Change Management"
+      ],
+      "sources": [
+        {
+          "title": "PR Newswire: 79% of Enterprises Report AI Agents in Production, but Only 15% Have Fully Tied AI Investment to P&L Outcomes (November 2026)",
+          "url": "https://www.prnewswire.com/news-releases/79-of-enterprises-report-ai-agents-in-production-but-only-15-have-fully-tied-ai-investment-to-pl-outcomes-302937385.html"
+        },
+        {
+          "title": "Newsweek: Genpact Study Finds the Real AI Challenge Begins After Deployment (November 2026)",
+          "url": "https://www.newsweek.com/genpact-ai-study-autonomy-dividend-sanjeev-vohra-12683873"
+        }
+      ]
     }
   ]
 }
