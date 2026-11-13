@@ -656,6 +656,33 @@
           "url": "https://www.newsweek.com/genpact-ai-study-autonomy-dividend-sanjeev-vohra-12683873"
         }
       ]
+    },
+    {
+      "slug": "2026-11-13-ai-agents-in-hr-need-a-named-human-decision-maker",
+      "date": "2026-11-13",
+      "title": "Employment law still assumes a human decides. Plan AI agents around that.",
+      "summary": "Littler's new report finds workplace rules often assume a human decision-maker, while only 13% of organizations think their AI governance is ready.",
+      "body": [
+        "Littler published its Agentic AI in the Workplace Report 2026 this month. It cites Gartner's 2026 CIO survey: AI agent deployment is expected to rise from 17% in 2026 to more than 60% within two years, with at least 15% of day-to-day work decisions made autonomously. Korn Ferry found 52% of talent leaders plan to add autonomous agents to their teams in 2026. Yet only 13% of organizations think they have the right governance in place.",
+        "The legal ground is moving too. Littler notes that nearly half of U.S. states introduced AI-related legislation in the 2026 session, and that many federal, state, local and global rules assume there is a human decision-maker. Agents that schedule interviews, route requests or summarize performance information sit right inside those rules.",
+        "As a delivery leader, I treat HR and people workflows as a separate risk tier. The technical build is often simple. The hard part is proving who decided, on what data, and how an employee can challenge the outcome.",
+        "Takeaway: before any agent touches hiring, scheduling or performance data, name the accountable human for each decision it supports, log its inputs and outputs, and have employment counsel review the workflow against the laws where your people work."
+      ],
+      "tags": [
+        "Governance",
+        "Workforce",
+        "Compliance"
+      ],
+      "sources": [
+        {
+          "title": "Littler: Agentic AI in the Workplace (November 2026)",
+          "url": "https://www.littler.com/news-analysis/littler-report/agentic-ai-workplace"
+        },
+        {
+          "title": "Littler: Agentic AI in the Workplace Report 2026, full PDF (November 2026)",
+          "url": "https://www.littler.com/sites/default/files/2026-11/agentic-ai-in-the-workplace.pdf"
+        }
+      ]
     }
   ]
 }
