@@ -683,6 +683,33 @@
           "url": "https://www.littler.com/sites/default/files/2026-11/agentic-ai-in-the-workplace.pdf"
         }
       ]
+    },
+    {
+      "slug": "2026-11-14-banks-that-run-governance-daily-scale-ai-agents-faster",
+      "date": "2026-11-14",
+      "title": "Banks that run AI governance day to day are scaling agents faster",
+      "summary": "BCG's benchmark of 26 major banks finds 73% allow AI agents in production for select uses, but only 8% have a full framework to monitor and control them.",
+      "body": [
+        "Boston Consulting Group released its AI Safety and Governance in Banking 2026 benchmark this week, covering 26 systemically important banks. Ninety-two percent are piloting or permitting agentic AI, and 73% permit agents in production for select use cases. None permit broad production use. Only 8% have a comprehensive, standardized framework to monitor and control agents, and 46% reported an AI-related issue or incident in the past 12 months.",
+        "The more useful finding is about speed. Banks with more mature risk management are 2.5 times more likely to be advanced AI adopters. Banks that use standardized, previously approved patterns for lower-risk applications are nearly twice as likely to move them from idea to production in under six months. Meanwhile, 54% have written restrictions or prohibitions on agents into their risk-appetite frameworks.",
+        "As a delivery leader, I read this as evidence against the idea that governance slows teams down. Review boards slow teams down when every project starts from zero. Pre-approved patterns let a team skip the debate and get on with the build.",
+        "Takeaway: write two or three approved agent patterns for your lowest-risk work, each with its data limits, monitoring and stop rules, and fast-track any project that fits one."
+      ],
+      "tags": [
+        "Governance",
+        "Financial Services",
+        "Scaling"
+      ],
+      "sources": [
+        {
+          "title": "PR Newswire: Operationalizing AI Governance Gives Banks an Advantage in Scaling AI, BCG (November 2026)",
+          "url": "https://www.prnewswire.com/news-releases/operationalizing-ai-governance-gives-banks-an-advantage-in-scaling-ai-302938342.html"
+        },
+        {
+          "title": "FairsOnline: AI Agents Reach 73% of Major Banks, Only 8% Have Full Controls (November 2026)",
+          "url": "https://www.fairsonline.org/ai-agents-reach-73-major-banks-only-8-have-full-controls"
+        }
+      ]
     }
   ]
 }
