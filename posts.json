@@ -710,6 +710,33 @@
           "url": "https://www.fairsonline.org/ai-agents-reach-73-major-banks-only-8-have-full-controls"
         }
       ]
+    },
+    {
+      "slug": "2026-11-15-ai-agents-run-it-operations-few-can-see-how-they-decide",
+      "date": "2026-11-15",
+      "title": "AI agents run IT operations. Few teams can see how they decide.",
+      "summary": "Dynatrace finds 87% use AI agents in IT operations, yet humans still verify 66% of AI decisions and only 27% address visibility into how agents decide.",
+      "body": [
+        "Dynatrace's State of Observability 2026, a survey of 1,202 technology leaders in 12 countries published November 10, found that 87% use AI agents for observability and IT operations. Forty-four percent target fully autonomous operations within five years, compared with 12% today. Humans still verify an average 66% of AI-powered decisions, and only 27% currently address visibility into how agents decide and act.",
+        "A separate HFS Research and Rackspace study of 502 senior AI decision-makers, released November 12, points the same way. Only 33% have met or exceeded their AI business case, 96% report significant governance gaps, and 44% have no single, consistent approach to running AI in production. Where AI is embedded in standard operations, the share meeting the business case rises to 56%.",
+        "As a delivery leader, I read the 66% figure as the cost line that matters. If people check two of every three decisions, the agent is not saving much time yet. Teams cannot safely lower that review rate until they can see why an agent acted, not just what it did.",
+        "Takeaway: before you widen an agent's scope, require a decision trace for every action it takes, and agree up front on the evidence needed to move human review from every decision to a sample."
+      ],
+      "tags": [
+        "Observability",
+        "Governance",
+        "ROI"
+      ],
+      "sources": [
+        {
+          "title": "Dynatrace: AI ambition is outpacing operational proof, State of Observability 2026 (November 2026)",
+          "url": "https://www.dynatrace.com/news/blog/state-of-observability-report-2026-key-insights/"
+        },
+        {
+          "title": "GlobeNewswire: New HFS Research and Rackspace Study Finds Only One-Third of Enterprises Realize Expected AI Value (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/12/3401574/0/en/new-hfs-research-and-rackspace-study-finds-only-one-third-of-enterprises-realize-expected-ai-value.html"
+        }
+      ]
     }
   ]
 }
