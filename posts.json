@@ -737,6 +737,33 @@
           "url": "https://www.globenewswire.com/news-release/2026/11/12/3401574/0/en/new-hfs-research-and-rackspace-study-finds-only-one-third-of-enterprises-realize-expected-ai-value.html"
         }
       ]
+    },
+    {
+      "slug": "2026-11-16-ai-agent-traffic-is-surging-many-sites-are-closing-the-door",
+      "date": "2026-11-16",
+      "title": "AI agent traffic is surging. Many sites are closing the door.",
+      "summary": "Monthly AI agent web traffic jumped 8x from August to October 2026, while Amazon, United and others restrict agents. Plan site access as a delivery dependency.",
+      "body": [
+        "Monthly AI agent traffic jumped 8x between August and October 2026, according to HUMAN Security data cited by investor Tomasz Tunguz on November 13. Bots now make up 54% of global web traffic, per Imperva figures in the same post. At the same time, businesses are pushing back. Engadget reports that Amazon, eBay and Delta restrict agents for business reasons, while security systems at sites like Walmart and Zillow struggle to tell agents from scrapers. Tunguz notes that United and Amazon block shopping agents at checkout, where upgrades, ads and add-ons drive profit.",
+        "Not every door is closing. In a Shopify test reported in the same post, agents using a sanctioned checkout interface completed 60 of 60 tasks in 10.3 seconds, compared with 56 of 60 in 27.4 seconds through browser automation.",
+        "As a delivery leader, I treat outside website access as a dependency with an owner, not an assumption. An agent that works in a demo can fail in production the day a partner changes its bot policy. Screen scraping with shared credentials is also what JPMorgan's CFO called \"not secure,\" so it is a weak base for anything customers rely on.",
+        "Takeaway: list every external site or system your agent touches, confirm each one permits agent access, and move critical steps to sanctioned APIs or agent interfaces before go-live."
+      ],
+      "tags": [
+        "Adoption",
+        "Security",
+        "Interoperability"
+      ],
+      "sources": [
+        {
+          "title": "Tomasz Tunguz: No Shirt, No Shoes, No Service for Bots (November 2026)",
+          "url": "https://tomtunguz.com/no-shirt-no-shoes-no-service-for-bots/"
+        },
+        {
+          "title": "Engadget: Why some websites are blocking AI agents from accessing the web (November 2026)",
+          "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/"
+        }
+      ]
     }
   ]
 }
