@@ -764,6 +764,33 @@
           "url": "https://www.engadget.com/2300357/websites-blocking-ai-agents-from-web/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-17-enterprises-feel-ready-for-ai-agents-few-can-forecast-the-bill",
+      "date": "2026-11-17",
+      "title": "Enterprises feel ready for AI agents. Few can forecast the bill.",
+      "summary": "SnapLogic finds 85% feel ready to scale AI agents, yet 54% abandoned AI projects over unclear value and only 42% can forecast AI spend. Make the forecast a scaling gate.",
+      "body": [
+        "SnapLogic released its 2026 Agentic Enterprise Readiness Index today, based on a survey of 1,000 IT decision-makers in the U.S., U.K. and Germany. On paper, readiness looks strong: 85% are deploying agentic AI at scale or say they are fully prepared to, and 93% have an AI agent policy covering most or all of the business. Yet 54% have abandoned AI projects because business value was unclear, 48% struggle or expect to struggle to measure ROI, and 50% feel pressure to keep investing even when value is hard to prove.",
+        "The money picture is the sharper signal. 89% report some AI agent overspend, 64% call it moderate or significant, and only 42% can accurately forecast future AI and token spending. Real budgets already show the strain: Unite.AI, citing Bloomberg, reports that Uber used its full annual AI coding budget in four months and then capped spending at $1,500 per employee, per month, per tool.",
+        "From a delivery seat, a policy document is not readiness. Agents consume tokens with every step, retry and handoff, so cost moves with usage, not with the contract. If a team cannot predict next quarter's spend, it cannot defend the business case when finance asks.",
+        "Takeaway: before an agent moves from pilot to scale, require a spend forecast and compare it with actuals for 30 days. If the gap is wide, fix the forecast before you add users."
+      ],
+      "tags": [
+        "ROI",
+        "Adoption",
+        "Governance"
+      ],
+      "sources": [
+        {
+          "title": "SnapLogic via GlobeNewswire: New Research Reveals 54% of Enterprises Have Abandoned Agentic AI Projects Due to Unclear Business Value (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404301/0/en/new-research-reveals-54-of-enterprises-have-abandoned-agentic-ai-projects-due-to-unclear-business-value.html"
+        },
+        {
+          "title": "Unite.AI: Why Token Costs Are Breaking the CFO Budgets in 2026 (September 2026)",
+          "url": "https://www.unite.ai/ai-token-costs-enterprise-budgeting-agentic-spending/"
+        }
+      ]
     }
   ]
 }
