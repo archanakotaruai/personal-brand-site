@@ -791,6 +791,33 @@
           "url": "https://www.unite.ai/ai-token-costs-enterprise-budgeting-agentic-spending/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-18-ai-agents-run-on-apis-few-teams-say-theirs-are-ready",
+      "date": "2026-11-18",
+      "title": "AI agents run on APIs. Only 13% of teams say theirs are ready.",
+      "summary": "Postman finds 25% of organizations run AI agents on APIs in production, but only 13% call their APIs fully agent-ready. Treat API readiness as an agent go-live gate.",
+      "body": [
+        "Postman released its 2026 State of the API Report today, based on more than 8,900 developers and API professionals. One in four organizations, 25%, now run AI agents that use APIs in production, yet only 13% say their APIs are fully agent-ready. Fully API-first organizations are 2.6 times as likely to run agents in production, 43% versus 17%. Controls trail usage: 44% have dedicated API security controls, but only 25% have controls for AI agents, and 40% have not addressed agent credentials and identity.",
+        "Palo Alto Networks' State of Cloud Security Report, a survey of 2,800 security leaders and practitioners covered by SiliconANGLE this week, shows the same gap. 53% say agent activity is logged under a developer's identity or personal access token, and 60% still need manual steps to revoke access for nonhuman identities.",
+        "From a delivery seat, this changes where the readiness work sits. An agent is only as reliable as the APIs it calls: their documentation, error handling, rate limits and permissions. If an agent borrows a person's token, nobody can tell later who did what, or shut it off quickly.",
+        "Takeaway: before an agent goes live, list every API it will call, give the agent its own credential with scoped permissions, and test that you can revoke that credential in minutes."
+      ],
+      "tags": [
+        "Adoption",
+        "Security",
+        "Interoperability"
+      ],
+      "sources": [
+        {
+          "title": "Postman via Business Wire: One in Four Organizations Now Run AI Agents on APIs in Production, Postman's 2026 State of the API Report Finds (November 2026)",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-11-18-one-in-four-organizations-now-run-ai-agents-on-apis-in-production-postmans-2026-state-of-the-api-report-finds"
+        },
+        {
+          "title": "SiliconANGLE: Palo Alto Networks report finds organizations struggle to track and secure AI agents in the cloud (November 2026)",
+          "url": "https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/"
+        }
+      ]
     }
   ]
 }
