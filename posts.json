@@ -818,6 +818,33 @@
           "url": "https://siliconangle.com/2026/11/16/palo-alto-networks-report-finds-organizations-struggle-to-track-and-secure-ai-agents-in-the-cloud/"
         }
       ]
+    },
+    {
+      "slug": "2026-11-19-ai-agent-use-at-work-is-rising-training-is-falling",
+      "date": "2026-11-19",
+      "title": "AI agent use at work is rising. Training is falling.",
+      "summary": "Adecco finds 74% of workers use AI agents at work, but training participation fell to 67%. Make training and frontline redesign part of every agent go-live plan.",
+      "body": [
+        "The Adecco Group released its Global Workforce of the Future report today, based on 40,500 workers in 36 countries. 74% of workers now use AI agents at work, up from 64% in 2025. Yet training participation fell from 77% to 67%. Of those who completed training, 93% say AI made them more productive, versus 47% of those who did not. Involvement matters too: 96% of workers who help redesign their work are willing to adapt, compared with 29% of those left out.",
+        "Security teams show the same shift up close. A Strike48 survey of 534 security and IT leaders, released yesterday, found 87% are changing their entry-level analyst function because of AI agents. 42% are retraining those analysts to supervise or manage agents, and 37% are moving them into investigation roles.",
+        "From a delivery seat, this is a sequencing problem. Teams fund the agent, then treat training as optional follow-up. But people who will supervise, correct and escalate agent work need that skill on day one, and they spot workflow problems that no design session will.",
+        "Takeaway: put training and a frontline redesign session in the agent's go-live plan, with dates and owners, and do not launch until the people who will supervise the agent have finished both."
+      ],
+      "tags": [
+        "Adoption",
+        "Workforce",
+        "Change Management"
+      ],
+      "sources": [
+        {
+          "title": "The Adecco Group via GlobeNewswire: The Adecco Group global study: AI delivers more value when people are involved in work redesign (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406312/0/en/the-adecco-group-global-study-ai-delivers-more-value-when-people-are-involved-in-work-redesign.html"
+        },
+        {
+          "title": "Strike48 via GlobeNewswire: Strike48 Survey Finds AI Agent Adoption in the SOC Doubled in Five Months, but Autonomy Lags (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/18/3405673/0/en/strike48-survey-finds-ai-agent-adoption-in-the-soc-doubled-in-five-months-but-autonomy-lags.html"
+        }
+      ]
     }
   ]
 }
