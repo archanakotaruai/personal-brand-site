@@ -845,6 +845,33 @@
           "url": "https://www.globenewswire.com/news-release/2026/11/18/3405673/0/en/strike48-survey-finds-ai-agent-adoption-in-the-soc-doubled-in-five-months-but-autonomy-lags.html"
         }
       ]
+    },
+    {
+      "slug": "2026-11-20-ai-agent-decisions-need-an-evidence-trail",
+      "date": "2026-11-20",
+      "title": "AI agents are acting. Few teams can show the evidence for why.",
+      "summary": "IDC finds only 8.7% of organizations have decision context broadly in place, and ServiceNow finds 47% of Indian firms can produce agent evidence on demand.",
+      "body": [
+        "Two studies released this week point to the same gap. An IDC InfoBrief commissioned by Quantexa surveyed 366 technology leaders at large banks, insurers and government agencies in North America and the UK. Agents already run in 21.6% of suitable workflows, expected to reach 32.1% within 12 months. Yet only 8.7% have decision context broadly in place, and 35.2% cite a lack of decision lineage as a barrier. ServiceNow's survey of 500 security leaders in India found 92% had an AI agent security incident in the past year, only 36% of those contained it within 24 hours, 47% can produce a complete evidence package on demand, and just 19% have a single named accountable person.",
+        "This matters because agents are moving into regulated, high-consequence work. When an agent approves, denies or changes something, someone will ask why. Without lineage, the answer is a guess.",
+        "From a delivery seat, evidence is a requirement, not a reporting feature added later. If the team cannot reconstruct what data an agent saw, which rule applied and who owned the outcome, the agent is not ready for production.",
+        "Takeaway: before go-live, run a mock audit. Pick one agent decision and have the team produce its inputs, logic, approvals and owner within a set time. If they cannot, fix that first."
+      ],
+      "tags": [
+        "Governance",
+        "Evaluation",
+        "Security"
+      ],
+      "sources": [
+        {
+          "title": "Quantexa via GlobeNewswire: Organizations Are Deploying AI Agents Faster Than They Can Explain the Context Behind Their Decisions, New Study Finds (November 2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3404297/0/en/organizations-are-deploying-ai-agents-faster-than-they-can-explain-the-context-behind-their-decisions-new-study-finds.html"
+        },
+        {
+          "title": "ServiceNow Newsroom: 92% of Indian organisations had an AI agent security incident in the past year; only 36% of them contained it within 24 hours (November 2026)",
+          "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
+        }
+      ]
     }
   ]
 }
