@@ -872,6 +872,37 @@
           "url": "https://newsroom.servicenow.com/press-releases/details/2026/92-of-Indian-organisations-had-an-AI-agent-security-incident-in-the-past-year-only-36-of-them-contained-it-within-24-hours/default.aspx"
         }
       ]
+    },
+    {
+      "slug": "2026-11-21-ai-agents-in-procurement-need-written-rules",
+      "date": "2026-11-21",
+      "title": "Procurement will let AI agents transact. Few have the rules written down.",
+      "summary": "Coupa finds 72% of procurement and finance leaders would let agents create or update transactions, yet fewer than 1% do and only 12% have approval rules fully documented.",
+      "body": [
+        "Coupa's State of Agentic Procurement Report, built with Incisiv from an October survey of 606 procurement, finance, supply chain and IT executives, finds 72% would let AI agents create or update transactions. Fewer than 1% say an agent does that work today. 94% want a complete audit trail and 90% want defined approval thresholds before giving agents more autonomy. Yet among procurement respondents, just 12% say their policies, approval thresholds and exception processes are fully documented and followed.",
+        "This matters because the barrier is not appetite. Data quality or integration was the top obstacle for 29% of respondents, against 17% for agent accuracy. PYMNTS reports a similar pattern in payments: 57% of surveyed CFOs require two approvals or callback confirmation for outgoing payments, controls designed for people that agents will now have to pass through.",
+        "From a delivery seat, an agent can only follow rules that exist in a form it can read. If approval limits live in someone's head or an old policy PDF, the agent will either stall or improvise. Neither is acceptable when money moves.",
+        "Takeaway: before piloting a transacting agent, write the rulebook. Document thresholds, exceptions and escalation owners as testable rules, then run last quarter's purchases through them to find the gaps."
+      ],
+      "tags": [
+        "Adoption",
+        "Governance",
+        "ROI"
+      ],
+      "sources": [
+        {
+          "title": "Coupa via Business Wire (Yahoo Finance): 72% of Procurement Leaders Would Let AI Agents Handle Transactions, Yet Fewer Than 1% Do (November 2026)",
+          "url": "https://finance.yahoo.com/technology/ai/articles/72-procurement-leaders-let-ai-140000719.html"
+        },
+        {
+          "title": "CFOtech: Business leaders back AI agents for transactions, survey (November 2026)",
+          "url": "https://cfotech.news/story/business-leaders-back-ai-agents-for-transactions-survey"
+        },
+        {
+          "title": "PYMNTS: AI Agents Put Corporate Card Spending Rules to the Test (November 2026)",
+          "url": "https://www.pymnts.com/news/b2b-payments/2026/ai-agents-put-corporate-card-spending-rules-to-the-test/"
+        }
+      ]
     }
   ]
 }
